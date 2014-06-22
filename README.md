@@ -17,8 +17,8 @@ The Course Project required us to generate a tidy dataset which adheres to the f
 The submitted R Script "run_analysis.R" includes a function named "run_analysis" which performs all the data processing based on the above guidelines. In order to run the script just type in the following commands onto to your console:
 </br>
 ```{r,message=FALSE}
-## source("run_analysis.R")
-## run_analysis()
+ source("run_analysis.R")
+ run_analysis()
 ```
 
 </br>
